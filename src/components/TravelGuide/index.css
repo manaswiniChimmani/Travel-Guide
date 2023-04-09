@@ -1,0 +1,22 @@
+.bg-container {
+  background-color: #eef4f7;
+  font-family: 'Roboto';
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.h1 {
+  color: #334155;
+  font-size: 28px;
+  padding: 10px;
+  text-decoration: underline;
+  text-decoration-color: #52bbf0;
+}
+ul {
+  display: flex;
+  flex-wrap: wrap;
+  width: 75%;
+  list-style: none;
+}
